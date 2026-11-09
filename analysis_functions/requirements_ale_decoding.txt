@@ -1,0 +1,9 @@
+# Python 3.10; analysis dependencies, not a complete environment lockfile.
+nimare==0.5.0
+nilearn==0.11.1
+numpy==2.0.2
+scipy==1.15.3
+nibabel==5.4.2
+pandas==2.3.3
+wordcloud==1.9.6
+Pillow==11.3.0

@@ -1,0 +1,12 @@
+# Python 3.10; use a separate environment from ALE/decoding.
+nimare==0.22.0
+nilearn==0.13.1
+nibabel==5.4.2
+numpy==2.0.2
+scipy==1.15.3
+pandas==2.3.3
+joblib==1.5.3
+numba==0.60.0
+sparse==0.15.5
+scikit-learn==1.7.2
+pymare==0.0.13
